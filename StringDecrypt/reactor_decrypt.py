@@ -21,7 +21,7 @@ class payloadScanner:
 		totalNumTypes = 0
 		stringMethodName = "pyM1eVFCveMv9BuGJ6"
 
-		for var in mod.Types:
+		for var in mod.GetTypes():
 
 			if not var.HasMethods: 																									
 				pass
