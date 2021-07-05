@@ -15,8 +15,6 @@ class payloadScanner:
 	def scanBinary(self, decryptedBlob):	
 		# credits: https://rhotav.github.io/stringdecryptionwithpythonen
 		mod = dnlib.DotNet.ModuleDefMD.Load(self.target)
-		opt = dnlib.DotNet.Writer.ModuleWriterOptions(mod)	
-		opt.MetadataOptions.Flags = opt.MetadataOptions.Flags | dnlib.DotNet.Writer.MetadataFlags.PreserveAll;
 		totalNumTypes = 0
 		stringMethodName = "pyM1eVFCveMv9BuGJ6"
 
