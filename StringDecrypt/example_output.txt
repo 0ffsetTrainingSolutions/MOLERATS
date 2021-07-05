@@ -1,0 +1,5968 @@
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110708: temp
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+142: \
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110720: .png
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109542: Start
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110534: *.*
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110250: Powershell
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110250: Powershell
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110534: *.*
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110364: Command Not Found
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110402: 
+
+#############################
+
+
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110492: date
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110504: MM/dd/yyyy
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110504: MM/dd/yyyy
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110240: Cmd
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110644: EX
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110792: 
+
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110746: https://api.ipify.org
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110240: Cmd
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110492: date
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110492: date
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110504: MM/dd/yyyy
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110504: MM/dd/yyyy
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+102420: 
+
+
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110528: F
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110286: cmd.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110304: /C
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110344: WMIC.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110274: WMIC
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110274: WMIC
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+142: \
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110208: DFromUrl
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110228: Z
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+142: \
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110234: E
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+106262: OK
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110554:  # CreateDate:
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110586:  # ModifyDate:
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109452: 
+
+#############################
+
+Last Conn 
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+71288: D
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110402: 
+
+#############################
+
+
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110544: ini
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110492: date
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109556: Startup
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109542: Start
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110180: 1
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109632: \Rar.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109620: .exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109602: Rar.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109586: QA.rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109672: 
+
+#############################
+
+Rar Startup is Download
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110092: 
+
+#############################
+
+Add To ST
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109620: .exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109652: /Rar.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109620: .exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109574: .rar
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109620: .exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109988: 
+
+#############################
+
+not unrar File 
+
+
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109788: 
+
+#############################
+
+File Rar is Download
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+109898: 
+
+#############################
+
+unrar File
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110676: yyyyMMddhhmmss
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+544: #
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110472: ListFile
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110652: Screenshot
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110732: GetIP
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110312: Powershell.exe
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110304: /C
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110534: *.*
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110186: DFileDrop
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110618: UploadFiles
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110186: DFileDrop
+
+Namespace: Pro.Form1/<GetUpload>d__29
+Method: MoveNext
+110544: ini
+
+Namespace: Pro.Form1/<RunFileOnes>d__32
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<RunFileOnes>d__32
+Method: MoveNext
+24: OneFile
+
+Namespace: Pro.Form1/<RunFileOnes>d__32
+Method: MoveNext
+24: OneFile
+
+Namespace: Pro.Form1/<RunFileOnes>d__32
+Method: MoveNext
+0: 0
+
+Namespace: Pro.Form1/<UploadFile>d__33
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<UploadFile>d__33
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<StartFolder>d__43
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110964: </p>
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110868: idtoken
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110954: <p>
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110886: https://justpaste.it/ONE_ME_OR18
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110798: https://pastebin.com/raw/q81XevX2
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110868: idtoken
+
+Namespace: Pro.Form1/<ReadFileAlw>d__45
+Method: MoveNext
+110954: <p>
+
+Namespace: Pro.Form1/<WriteFileToD>d__46
+Method: MoveNext
+6: /
+
+Namespace: Pro.Form1/<ReadFile>d__47
+Method: MoveNext
+6: /
+
+Namespace: Dropbox.Api.StructuredException`1/UL9OsJU4JAS4jimm46`1
+Method: SetField
+19314: error
+
+Namespace: Dropbox.Api.StructuredException`1/UL9OsJU4JAS4jimm46`1
+Method: SetField
+110976: error_summary
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: IsKnownRootCertPublicKey
+964: -
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+970: 3082010A0282010100AD0E15CEE443805CB187F3B760F97112A5AEDC269488AAF4CEF520392858600CF880DAA9159532613CB5B128848A8ADC9F0A0C83177A8F90AC8AE779535C31842AF60F98323676CCDEDD3CA8A2EF6AFB21F25261DF9F20D71FE2B1D9FE1864D2125B5FF9581835BC47CDA136F96B7FD4B0383EC11BC38C33D9D82F18FE280FB3A783D6C36E44C061359616FE599C8B766DD7F1A24B0D2BFF0B72DA9E60D08E9035C678558720A1CFE56D0AC8497C3198336C22E987D0325AA2BA138211ED39179D993A72A1E6FAA4D9D5173175AE857D22AE3F014686F62879C8B1DAE45717C47E1C0EB0B492A656B3BDB297EDAAA7F0B7C5A83F9516D0FFA196EB085F18774F0203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+2054: 3082010A0282010100E23BE11172DEA8A4D3A357AA50A28F0B7790C9A2A5EE12CE965B010920CC0193A74E30B753F743C46900579DE28D22DD870640008109CECE1B83BFDFCD3B7146E2D666C705B37627168F7B9E1E957DEEB748A308DAD6AF7A0C3906657F4A5D1FBC17F8ABBEEE28D7747F7A78995985686E5C23324BBF4EC0E85A6DE370BF7710BFFC01F685D9A844105832A97518D5D1A2BE47E2276AF49A33F84908608BD45FB43A84BFA1AA4A4C7D3ECF4F5F6C765EA04B37919EDC22E66DCE141A8E6ACBFECDB3146417C75B299E32BFF2EEFAD30B42D4ABB74132DA0CD4EFF881D5BB8D583FB51BE84928A270DA3104DDF7B216F24C0A4E07A8ED4A3D5EB57FA390C3AF270203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+3138: 3082010A0282010100C6CCE573E6FBD4BBE52D2D32A6DFE5813FC9CD2549B6712AC3D5943467A20A1CB05F69A640B1C4B7B28FD098A4A941593AD3DC94D63CDB7438A44ACC4D2582F74AA5531238EEF3496D71917E63B6ABA65FC3A484F84F6251BEF8C5ECDB3892E306E508910CC4284155FBCB5A89157E71E835BF4D72093DBE3A38505B77311B8DB3C724459AA7AC6D00145A04B7BA13EB510A984141224E656187814150A6795C89DE194A57D52EE65D1C532C7E98CD1A0616A46873D03404135CA171D35A7C55DB5E64E13787305604E511B4298012F1793988A202117C2766B788B778F2CA0AA838AB0A64C2BF665D9584C1A1251E875D1A500B2012CC41BB6E0B5138B84BCB0203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+4222: 048413C9D0BA6D417BE26CD0EB555F66021A24F45B896947E3B8C27DF1F202C59FA0F65BD58B0619864F53106D072427A1A0F8D54719614C7DCA9327EA740CEF6F9609FE63EC705D36AD6777AEC99D7C55443AA263511FF5E362D4A947073ECC20
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+4614: 3082010A0282010100BA84B672DB9E0C6BE299E93001A776EA32B895411AC9DA614E5872CFFEF68279BF7361060AA527D8B35FD3454E1C72D64E32F2728A0FF78319D06A808000451EB0C7E79ABF1257271CA3682F0A87BD6A6B0E5E65F31C77D5D4858D7021B4B332E78BA2D5863902B1B8D247CEE4C949C43BA7DEFB547D57BEF0E86EC279B23A0B55E250981632135C2F7856C1C294B3F25AE4279A9F24D7C6ECD09B2582E3CCC2C445C58C977A066B2A119FA90A6E483B6FDBD4111942F78F07BFF5535F9C3EF4172CE669AC4E324C6277EAB7E8E5BB34BC198BAE9C51E7B77EB553B13322E56DCF703C1AFAE29B67B683F48DA5AF624C4DE058AC64341203F8B68D946324A4710203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+5698: 3082010A0282010100B695B64342FAC66D2A6F48DF944C395705EEC37911416836EDECFE9A018FA13828FCF71046662E4D1E1AB11A4EC6D1C09588B0C9FF318B3303DBB7837B3E20845EEDB25628A7F8E0B9407137C5CB470E972A68C022956215DB47D9F5D02BFF824BC9AD3EDE4CDB9080503F098A8400EC300A3D18CDFBFD2A599A2395172C459E1F6E43796D0C5C98FE48A7C523475C5EFD6EE71EB4F66845D186835BA28A8DB1E32980FE257188ADBEBC8FAC52964BAA518DE4133119E84E4D9FDBACB36AD5BC395471CA7A7A7F90DD7D1D80D981BB5926C211FEE693E2F780E465FB34370E2980704DAF38862E9E7F57AF9E17AEEB1CCB28215FB61CD8E7A20422F9D3DAD8CB0203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+6782: 3082010A0282010100AD4D4BA91286B2EAA320071516642A2B4BD1BF0B4A4D8EED8076A567B77840C07342C868C0DB532BDD5EB8769835938B1A9D7C133A0E1F5BB71ECFE524141EB181A98D7DB8CC6B4B03F1020CDCABA54024007F7494A19D0829B3880BF587779D55CDE4C37ED76A64AB851486955B9732506F3DC8BA660CE3FCBDB849C176894919FDC0A8BD89A3672FC69FBC711960B82DE92CC99076667B94E2AF78D665535D3CD69CB2CF2903F92FA450B2D448CE0532558AFDB2644C0EE4980775DB7FDFB9085560853029F97B48A46986E3353F1E865D7A7A15BDEF008E1522541700902693BC0E496891BFF847D39D9542C10E4DDF6F26CFC3182162664370D6D5C007E10203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+7866: 3082010A0282010100DACC186330FDF417231A567E5BDF3C6C38E471B77891D4BCA1D84CF8A843B603E94D21070888DA582F663929BD05788B9D38E805B76A7E71A4E6C460A6B0EF80E489280F9E25D6ED83F3ADA691C798C9421835149DAD9846922E4FCAF18743C11695572D50EF892D807A57ADF2EE5F6BD2008DB914F8141535D9C046A37B72C891BFC9552BCDD0973E9C2664CCDFCE831971CA4EE6D4D57BA919CD55DEC8ECD25E3853E55C4F8C2DFE502336FC66E6CB8EA4391900B7950239910B0EFE382ED11D059AF64D3E6F0F071DAF2C1E8F6039E2FA36531339D45E262BDB3DA814BD32EB180328520471E5AB333DE138BB073684629C79EA1630F45FC02BE8716BE4F90203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+8950: 0415B1E8FD031543E5ACEB87371162EFD28336527D45570B4A8D7B543B3A6E5F1502C050A6CF252F7DCA48B8C750631C2A21087C9A36D80BFED126C55831302825F35D5DA3B8B6A5B492ED6C2C9FEBDD4389A23C4B48911D50EC26DFD6602EBD21
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+9342: 3082010A0282010100DCE25E62581D3357393233FAEBCB878CA7D44ADD0688EA648E3198A538901E98CF2E632BF046BC44B289A1C0280C497021959F64C0A6931202652686C6A589F0FAD784A070AF4F1A973F0644D5C9EB72107DE43128FB1C61E628074473922269A703886C9D63C852DA9827E7084C703EB4C912C1C567835D33F30311EC6AD053E2D1BA36609480BB61636C5B177EDF40941EAB0DC221287088FFD6266C6C6004254E557E7DEFBF9448DEB71DDD708D055F88A59BF2C2EEEAD140416D62381D5606C50347512019FC7B100B0E62AE7655BF5F77BE3E4901533D98250376245A1DB4DB89EA79E5B6B33B3FBA4C28417F06AC6A8EC1D0F6051D7DE64286E3A5D5470203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+10426: 3082010A0282010100BEB8157BFFD47C7D67AD83647BC842532DDFF684082061D601596A9C4411AFEF76FD957ECE6130BB7A835F02BD0166CAEE158D6FA1309CBDA1859E943AF356880031CFD8EE6A9602D9ED038CFB756DE7EAB8551605169AF4E05EB188C064855C154D88C7B7BAE075E9AD053D9DC78948E0BB28C803E13093645E52C05970223557888AF1950A83D7BC31730134EDEF4671E06B02A835726B979B66E0CB1C795FD81A04681E4702E69D60E2369701DFCE3592DFBE67C76D77593B8F9DD6901594BC423410C139F9B1273E7ED68A75C5B2AF96D3A2DE9BE498BE7DE1E981ADB66FFCD70EDAE034B00D1A77E7E30898EF58FA9C84B736AFC2DFACD2F410067071350203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+11510: 308201080282010100DE9DD7EA571849A15BEBD75F4886EABEDDFFE4EF671CF46568B35771A05E77BBED9B49E970803D561863086FDAF2CCD03F7F0254225410D8B281D4C0753D4B7FC777C33E78AB1A03B5206B2F6A2BB1C5887EC4BB1EB0C1D845276FAA3758F78726D7D82DF6A917B71F72364EA6173F659892DB2A6E5DA2FE88E00BDE7FE58D15E1EBCB3AD5E212A2132DD88EAF5F123DA0080508B65CA565380445991EA3606074C541A572621B62C51F6F5F1A42BE025165A8AE23186AFC7803A94D7F80C3FAAB5AFCA140A4CA1916FEB2C8EF5E730DEE77BD9AF67998BCB10767A2150DDDA058C6447B0A3E62285FBA41075358CF117E3874C5F8FFB569908F8474EA971BAF020103
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+12586: 3082010A0282010100BF716208F1FA5934F71BC918A3F7804958E9228313A6C52043013B84F1E685499F27EAF6841B4EA0B4DB7098C73201B1053E074EEEF4FA4F2F593022E7AB19566BE28007FCF316758039517BE5F935B6744EA98D8213E4B63FA90383FAA2BE8A156A7FDE0BC3B6191405CAEAC3A804943B467C320DF3006622C88D696D368C1118B7D3B21C60B438FA028CCED3DD4607DE0A3EEB5D7CC87CFBB02B53A4926269512505611A44818C2CA9439623DFAC3A819A0E29C51CA9E95D1EB69E9E300A39CEF18880FB4B5DCC32EC85624325340256270191B43B702A3F6EB1E89C88017D9FD4F9DB536D609DBF2CE758ABB85F46FCCEC41B033C09EB49315C6946B3E0470203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+13670: 3082010A0282010100C42DD5158C9C264CEC3235EB5FB859015AA66181593B7063ABE3DC3DC72AB8C933D379E43AED3C3023848EB33014B6B287C33D9554049EDF99DD0B251E21DE65297E35A8A954EBF6F73239D4265595ADEFFBFE5886D79EF4008D8C2A0CBD4204CEA73F04F6EE80F2AAEF52A16966DABE1AAD5DDA2C66EA1A6BBBE51A514A002F48C79875D8B929C8EEF8666D0A9CB3F3FC787CA2F8A3F2B5C3F3B97A91C1A7E6252E9CA8ED12656E6AF6124453703095C39C2B582B3D08744AF2BE51B0BF87D04C27586BB535C59DAF1731F80B8FEEAD813605890898CF3AAF2587C049EAA7FD67F7458E97CC1439E23685B57E1A37FD16F671119A743016FE1394A33F840D4F0203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+14754: 30818902818100D236366A8BD7C25B9EDA8141628F38EE490455D6D0EF1C1B951647EF1848353A52F42B6A068F3B2FEA56E3AF868D9E17F79EB46575024DEFCB09A22151D89BD067D0BA0D92061473D493CB972A009C5C4E0CBCFA1552FCF2446EDA114A6E089F2F2DE3F9AA3A8673B6465358C88905BD8311B8733FAA078DF4424DE7409D1C370203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+15318: 04A2D59C827B959DF1527887FE8A16BF05E6DFA3024F0D07C60051BA0C02522D22A44239C4FE8FEAC9C1BED44DFF9F7A9EE2B17C9AADA786097387D1E79AE37AA5AA6EFBBAB370C06788A235D4A39AB1FDADC2EF31FAA8B9F3FB08C691D1FB2995
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+15710: 3082010A0282010100B2BF272CFBDBD85BDD787B1B9E776681CB3EBC7CAEF3A6279A34A3683171383362E4F3716679B1A965A3A58BD58F602D3F42CCAA6B32C023CB2C41DDE4DFFC619CE273B222951143185FC4B61F576C0A055822C8364C3A7CA5D1CF86AF88A74402137471730A425902F81B146B42DF6F5FBA6B82A29D5BE74ABD1E0172DB4B74E83B7F7F7D1F04B4269BE0B45AAC473D55B8D7B026522801314066D8D924BDF62AD8EC21495C9BF67AE97F55357E966B8D939327CB92BBEAAC40C09FC2F880CF5DF45ADCCE7486A63E6C0B53CABD92CE190672E60C5C3869C704D6BC6CCE5BF6F7689CDC25154888A1E9A9F8989CE0F3D5312861116C67968D3999CBC24524390203010001
+
+Namespace: Dropbox.Api.DropboxCertHelper
+Method: .cctor
+16794: 3082010A0282010100ACA0F0FB8059D49CC7A4CF9DA159730910450C0D2C6E68F16C5B4868495937FC0B3319C2777FCC102D95341CE6EB4D09A71CD2B8C9973602B789D4245F06C0CC4494948D02626FEB5ADD118D289A5C8490107A0DBD74662F6A38A0E2D55444EB1D079F07BA6FEEE9FD4E0B29F53E84A001F19CABF81C7E89A4E8A1D871650DA3517BEEBCD222600DB95B9DDFBAFC515B0BAF98B2E92EE904E86287DE2BC8D74EC14C641EDDCF8758BA4A4FCA68071D1C9D4AC6D52F91CC7C71721CC5C067EB32FDC9925C94DA85C09BBF537D2B09F48C9D911F976A52CBDE0936A477D87B875044D53E6E2969FB3949261E09A5807B402DEBE82785C9FE61FD7EE67C971DD59D0203010001
+
+Namespace: Dropbox.Api.DropboxClient
+Method: .ctor
+17878: oauth2AccessToken
+
+Namespace: Dropbox.Api.DropboxClient
+Method: WithPathRoot
+17916: pathRoot
+
+Namespace: Dropbox.Api.DropboxAppClient
+Method: u7OdTBQsYV
+17936: appKey
+
+Namespace: Dropbox.Api.DropboxAppClient
+Method: u7OdTBQsYV
+17952: appSecret
+
+Namespace: Dropbox.Api.DropboxAppClient
+Method: u7OdTBQsYV
+17974: {0}:{1}
+
+Namespace: Dropbox.Api.DropboxTeamClient
+Method: .ctor
+17878: oauth2AccessToken
+
+Namespace: Dropbox.Api.DropboxException
+Method: ToString
+17992: ; Request Id: {0}
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18030: clientId
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18370: &force_reauthentication=true
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18076: response_type=
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18294: &disable_signup=true
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18248: &force_reapprove=true
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18108: token
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18338: &require_role=
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18230: &state=
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18134: oauthResponseType
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18172: &client_id=
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18198: &redirect_uri=
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18122: code
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18050: redirectUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: GetAuthorizeUri
+18430: https://www.dropbox.com/oauth2/authorize
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18672: state
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18634: access_token
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18662: uid
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18686: token_type
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18514: redirectedUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18544: The supplied uri doesn't contain a fragment
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ParseTokenFragment
+18514: redirectedUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18710: responseUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+17936: appKey
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+17952: appSecret
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18736: The redirect uri is missing expected query arguments.
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18710: responseUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18122: code
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18672: state
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18672: state
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18846: The state argument is expected.
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18912: The state in the responseUri does not match the provided value.
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18710: responseUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+19042: The responseUri is missing a code value in the query component.
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper
+Method: ProcessCodeFlowAsync
+18710: responseUri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+18122: code
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+17936: appKey
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+17952: appSecret
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+18122: code
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111006: grant_type
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111030: authorization_code
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111070: client_id
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111092: client_secret
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111122: redirect_uri
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111150: https://api.dropbox.com/oauth2/token
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+19314: error
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+111226: error_description
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+18634: access_token
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+18662: uid
+
+Namespace: Dropbox.Api.DropboxOAuth2Helper/<ProcessCodeFlowAsync>d__4
+Method: MoveNext
+18686: token_type
+
+Namespace: Dropbox.Api.OAuth2Response
+Method: .ctor
+19172: Invalid OAuth 2.0 response, missing access_token and/or uid.
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: .ctor
+19296: options
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: WithPathRoot
+17916: pathRoot
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: CjwdWwOlyu
+19314: error
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: X03wiSPmGF
+19328: https
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: X03wiSPmGF
+19342: /2
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: Tg3wd4AL4K
+19350: X-Dropbox-Request-Id
+
+Namespace: Dropbox.Api.DropboxRequestHandler
+Method: fmpwwWwwDR
+19394: notify
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonStringWithRetry>d__15
+Method: MoveNext
+111264: body
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111562: application/octet-stream
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+20490: user
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111276: Bearer
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111446: Dropbox-Api-Path-Root
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111394: Dropbox-Api-Select-Admin
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111264: body
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111614: Unknown route style: {0}
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+44100: noauth
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111292: Basic
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111344: Dropbox-Api-Select-User
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111528: Dropbox-API-Arg
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111492: application/json
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+21364: team
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+42560: app
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111528: Dropbox-API-Arg
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111306: Invalid auth type
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+102876: User-Agent
+
+Namespace: Dropbox.Api.DropboxRequestHandler/<RequestJsonString>d__17
+Method: MoveNext
+111666: Dropbox-API-Result
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19410: api.dropboxapi.com
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19450: content.dropboxapi.com
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19498: notify.dropboxapi.com
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19600: api
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19610: content
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19394: notify
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+6: /
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19544: OfficialDropboxDotNetSDKv2
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+6: /
+
+Namespace: Dropbox.Api.DropboxRequestHandlerOptions
+Method: .ctor
+19544: OfficialDropboxDotNetSDKv2
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+111730: business
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+111706: basic
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/o61W9u4Z1Z3aR8aeVm
+Method: EncodeFields
+111720: pro
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/sP5kTbsDNWSZF9CRKi
+Method: Decode
+111730: business
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/sP5kTbsDNWSZF9CRKi
+Method: Decode
+111720: pro
+
+Namespace: Dropbox.Api.UsersCommon.AccountType/sP5kTbsDNWSZF9CRKi
+Method: Decode
+111706: basic
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19710: Length should be at most 40
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19768: name
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19650: Length should be at least 40
+
+Namespace: Dropbox.Api.Users.Account
+Method: .ctor
+19780: email
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+19768: name
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+19780: email
+
+Namespace: Dropbox.Api.Users.Account/zN0ZpfhAjvOqBouBdH
+Method: EncodeFields
+111750: account_id
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+111806: disabled
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+111750: account_id
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+19768: name
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+19780: email
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.Account/MpaVA1VIK7vnTpNbdP
+Method: SetField
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+19768: name
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111890: team_member_id
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+19780: email
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111864: is_teammate
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111750: account_id
+
+Namespace: Dropbox.Api.Users.BasicAccount/gAQd8Uks5PG4aJB4cW
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+19768: name
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111750: account_id
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111806: disabled
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111890: team_member_id
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+19780: email
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.BasicAccount/k6Jl9x7a8jLUW8sZOd
+Method: SetField
+111864: is_teammate
+
+Namespace: Dropbox.Api.Users.FileLockingValue/IUcIOvzdNCjmPqnmP5
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.FileLockingValue/IUcIOvzdNCjmPqnmP5
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.Users.FileLockingValue/IUcIOvzdNCjmPqnmP5
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.FileLockingValue/IUcIOvzdNCjmPqnmP5
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.FileLockingValue/jD3mI32ZbDmWQTDSliU
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.Users.FileLockingValue/Enabled/WRHphYVk5LtQ8ak0a7h
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.Users.FileLockingValue/Enabled/BZvTq3V7MLAEE5o3atV
+Method: SetField
+111922: enabled
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19794: locale
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19810: Length should be at least 2
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19942: country
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19810: Length should be at least 2
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19868: referralLink
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19794: locale
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19922: rootInfo
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19942: country
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19960: Length should be at most 2
+
+Namespace: Dropbox.Api.Users.FullAccount
+Method: .ctor
+19896: accountType
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+112020: root_info
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111940: referral_link
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111750: account_id
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+19794: locale
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+19780: email
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111970: is_paired
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+19942: country
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111992: account_type
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+19768: name
+
+Namespace: Dropbox.Api.Users.FullAccount/iBHAHu22gX0YAUuavkm
+Method: EncodeFields
+111890: team_member_id
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+19780: email
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111806: disabled
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111750: account_id
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111940: referral_link
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+112020: root_info
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+19794: locale
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111826: profile_photo_url
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111774: email_verified
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111890: team_member_id
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+19942: country
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111992: account_type
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+19768: name
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+21364: team
+
+Namespace: Dropbox.Api.Users.FullAccount/hG6IpT2InOQRpXcsklL
+Method: SetField
+111970: is_paired
+
+Namespace: Dropbox.Api.Users.FullTeam
+Method: .ctor
+20050: officeAddinPolicy
+
+Namespace: Dropbox.Api.Users.FullTeam
+Method: .ctor
+20016: sharingPolicies
+
+Namespace: Dropbox.Api.Users.FullTeam/bSbvmw2guNOaClsUEt3
+Method: EncodeFields
+112042: sharing_policies
+
+Namespace: Dropbox.Api.Users.FullTeam/bSbvmw2guNOaClsUEt3
+Method: EncodeFields
+112078: office_addin_policy
+
+Namespace: Dropbox.Api.Users.FullTeam/bSbvmw2guNOaClsUEt3
+Method: EncodeFields
+20330: id
+
+Namespace: Dropbox.Api.Users.FullTeam/bSbvmw2guNOaClsUEt3
+Method: EncodeFields
+19768: name
+
+Namespace: Dropbox.Api.Users.FullTeam/jWUSmR2GEygpfjl9n0M
+Method: SetField
+112078: office_addin_policy
+
+Namespace: Dropbox.Api.Users.FullTeam/jWUSmR2GEygpfjl9n0M
+Method: SetField
+112042: sharing_policies
+
+Namespace: Dropbox.Api.Users.FullTeam/jWUSmR2GEygpfjl9n0M
+Method: SetField
+19768: name
+
+Namespace: Dropbox.Api.Users.FullTeam/jWUSmR2GEygpfjl9n0M
+Method: SetField
+20330: id
+
+Namespace: Dropbox.Api.Users.GetAccountArg
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.GetAccountArg
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.GetAccountArg
+Method: .ctor
+19710: Length should be at most 40
+
+Namespace: Dropbox.Api.Users.GetAccountArg
+Method: .ctor
+19628: accountId
+
+Namespace: Dropbox.Api.Users.GetAccountArg
+Method: .ctor
+19650: Length should be at least 40
+
+Namespace: Dropbox.Api.Users.GetAccountArg/lYvRMX2oHn9W134Ob6f
+Method: EncodeFields
+111750: account_id
+
+Namespace: Dropbox.Api.Users.GetAccountArg/vgsbp329XhA1GSr4erp
+Method: SetField
+111750: account_id
+
+Namespace: Dropbox.Api.Users.GetAccountBatchArg
+Method: .ctor
+20088: accountIds
+
+Namespace: Dropbox.Api.Users.GetAccountBatchArg
+Method: .ctor
+20088: accountIds
+
+Namespace: Dropbox.Api.Users.GetAccountBatchArg
+Method: .ctor
+20112: List should at at least 1 items
+
+Namespace: Dropbox.Api.Users.GetAccountBatchArg/rfvqZl2Y7al6YxOBgTP
+Method: EncodeFields
+112120: account_ids
+
+Namespace: Dropbox.Api.Users.GetAccountBatchArg/b7Ri7R2EMX2qYt2WDKY
+Method: SetField
+112120: account_ids
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/j07nq32cxpkolC6OdJd
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/j07nq32cxpkolC6OdJd
+Method: EncodeFields
+112146: no_account
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/j07nq32cxpkolC6OdJd
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/j07nq32cxpkolC6OdJd
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/PduRFu25L2R091ngAPB
+Method: Decode
+112146: no_account
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/NoAccount/F1Mrmpk2QsovvQXN4OC
+Method: EncodeFields
+112146: no_account
+
+Namespace: Dropbox.Api.Users.GetAccountBatchError/NoAccount/IgGcLZkIrDJpcjDCM03
+Method: SetField
+112146: no_account
+
+Namespace: Dropbox.Api.Users.GetAccountError/EIsjNd2af9OGAoN7LhC
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.GetAccountError/EIsjNd2af9OGAoN7LhC
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.GetAccountError/EIsjNd2af9OGAoN7LhC
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.GetAccountError/EIsjNd2af9OGAoN7LhC
+Method: EncodeFields
+112146: no_account
+
+Namespace: Dropbox.Api.Users.GetAccountError/HHPlGW2M0kEb8bEgOMr
+Method: Decode
+112146: no_account
+
+Namespace: Dropbox.Api.Users.IndividualSpaceAllocation/AubXUi2u81Gpt0j3jrZ
+Method: EncodeFields
+112170: allocated
+
+Namespace: Dropbox.Api.Users.IndividualSpaceAllocation/UsS8BE2RsNF7hXB6s6O
+Method: SetField
+112170: allocated
+
+Namespace: Dropbox.Api.Users.Name
+Method: .ctor
+20218: familiarName
+
+Namespace: Dropbox.Api.Users.Name
+Method: .ctor
+20178: givenName
+
+Namespace: Dropbox.Api.Users.Name
+Method: .ctor
+20272: abbreviatedName
+
+Namespace: Dropbox.Api.Users.Name
+Method: .ctor
+20200: surname
+
+Namespace: Dropbox.Api.Users.Name
+Method: .ctor
+20246: displayName
+
+Namespace: Dropbox.Api.Users.Name/CttsSR2PLMquKQwGbxr
+Method: EncodeFields
+20200: surname
+
+Namespace: Dropbox.Api.Users.Name/CttsSR2PLMquKQwGbxr
+Method: EncodeFields
+112274: abbreviated_name
+
+Namespace: Dropbox.Api.Users.Name/CttsSR2PLMquKQwGbxr
+Method: EncodeFields
+112216: familiar_name
+
+Namespace: Dropbox.Api.Users.Name/CttsSR2PLMquKQwGbxr
+Method: EncodeFields
+112192: given_name
+
+Namespace: Dropbox.Api.Users.Name/CttsSR2PLMquKQwGbxr
+Method: EncodeFields
+112246: display_name
+
+Namespace: Dropbox.Api.Users.Name/gf2awS2nvnkT1Jin5hJ
+Method: SetField
+112216: familiar_name
+
+Namespace: Dropbox.Api.Users.Name/gf2awS2nvnkT1Jin5hJ
+Method: SetField
+112274: abbreviated_name
+
+Namespace: Dropbox.Api.Users.Name/gf2awS2nvnkT1Jin5hJ
+Method: SetField
+112192: given_name
+
+Namespace: Dropbox.Api.Users.Name/gf2awS2nvnkT1Jin5hJ
+Method: SetField
+20200: surname
+
+Namespace: Dropbox.Api.Users.Name/gf2awS2nvnkT1Jin5hJ
+Method: SetField
+112246: display_name
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/p3DjHr2dw8iD8GHlhA8
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/p3DjHr2dw8iD8GHlhA8
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/p3DjHr2dw8iD8GHlhA8
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/p3DjHr2dw8iD8GHlhA8
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/d4gCMY2AV47ssWVXLoo
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/Enabled/Wh8tA3kcAOTTkltyWfx
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.Users.PaperAsFilesValue/Enabled/xBILKYk573XT3ZXE1M3
+Method: SetField
+111922: enabled
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/n0Armr21px0tKgIM9xv
+Method: EncodeFields
+112310: individual
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/QLXfQ52pxjv4HypYqHP
+Method: Decode
+21364: team
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/QLXfQ52pxjv4HypYqHP
+Method: Decode
+112310: individual
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/Individual/If9c7jkuGhG1ILyldZq
+Method: EncodeFields
+112310: individual
+
+Namespace: Dropbox.Api.Users.SpaceAllocation/Team/IXiLhhkPHBbelePbsjW
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.Users.SpaceUsage
+Method: .ctor
+20306: allocation
+
+Namespace: Dropbox.Api.Users.SpaceUsage/byPjSe2BjOQrXvMVOrH
+Method: EncodeFields
+112334: used
+
+Namespace: Dropbox.Api.Users.SpaceUsage/byPjSe2BjOQrXvMVOrH
+Method: EncodeFields
+20306: allocation
+
+Namespace: Dropbox.Api.Users.SpaceUsage/lVBim42Dxri55UXNdfR
+Method: SetField
+20306: allocation
+
+Namespace: Dropbox.Api.Users.SpaceUsage/lVBim42Dxri55UXNdfR
+Method: SetField
+112334: used
+
+Namespace: Dropbox.Api.Users.Team
+Method: .ctor
+19768: name
+
+Namespace: Dropbox.Api.Users.Team
+Method: .ctor
+20330: id
+
+Namespace: Dropbox.Api.Users.Team/Rn2qd526pmgLp1ls7q6
+Method: EncodeFields
+19768: name
+
+Namespace: Dropbox.Api.Users.Team/Rn2qd526pmgLp1ls7q6
+Method: EncodeFields
+20330: id
+
+Namespace: Dropbox.Api.Users.Team/sr7pRN2yDeeiWWAfDJ0
+Method: SetField
+20330: id
+
+Namespace: Dropbox.Api.Users.Team/sr7pRN2yDeeiWWAfDJ0
+Method: SetField
+19768: name
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation
+Method: .ctor
+20338: userWithinTeamSpaceLimitType
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/kFmbgH2KOyr50DlE94N
+Method: EncodeFields
+112346: user_within_team_space_allocated
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/kFmbgH2KOyr50DlE94N
+Method: EncodeFields
+112484: user_within_team_space_used_cached
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/kFmbgH2KOyr50DlE94N
+Method: EncodeFields
+112170: allocated
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/kFmbgH2KOyr50DlE94N
+Method: EncodeFields
+112334: used
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/kFmbgH2KOyr50DlE94N
+Method: EncodeFields
+112414: user_within_team_space_limit_type
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/Ne4Gu323aLonKv0WhVU
+Method: SetField
+112484: user_within_team_space_used_cached
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/Ne4Gu323aLonKv0WhVU
+Method: SetField
+112414: user_within_team_space_limit_type
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/Ne4Gu323aLonKv0WhVU
+Method: SetField
+112334: used
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/Ne4Gu323aLonKv0WhVU
+Method: SetField
+112170: allocated
+
+Namespace: Dropbox.Api.Users.TeamSpaceAllocation/Ne4Gu323aLonKv0WhVU
+Method: SetField
+112346: user_within_team_space_allocated
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeature/mGVx7W2x6yi2BUrKGdV
+Method: EncodeFields
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeature/eMlpQp2NxrMJlX8pHoH
+Method: Decode
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeature/eMlpQp2NxrMJlX8pHoH
+Method: Decode
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/LYJZBT2JRlRAS9HeFfG
+Method: EncodeFields
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/XW28Nk28jPoESC55Vps
+Method: Decode
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/XW28Nk28jPoESC55Vps
+Method: Decode
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/PaperAsFiles/dN64JgkK45IlYlbk3E7
+Method: EncodeFields
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/PaperAsFiles/MtQRN5k3Ocanrk9RbOt
+Method: SetField
+112556: paper_as_files
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/FileLocking/mli8fQkxc4OYRY2CR4x
+Method: EncodeFields
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeatureValue/FileLocking/SMRdhBkNbsCY6gRQKPj
+Method: SetField
+112588: file_locking
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchArg
+Method: .ctor
+20398: features
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchArg/OcD2Qj2Q1wat44MsZ7V
+Method: EncodeFields
+20398: features
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchArg/IcQXdg2W1TUvHah8wg0
+Method: SetField
+20398: features
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchError/SeWhUa2Fv6KpoO8Mu2g
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchError/SeWhUa2Fv6KpoO8Mu2g
+Method: EncodeFields
+112616: empty_features_list
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchError/SeWhUa2Fv6KpoO8Mu2g
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchError/SeWhUa2Fv6KpoO8Mu2g
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchError/fxiMvS2q3MrHh2oyOsb
+Method: Decode
+112616: empty_features_list
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchResult
+Method: .ctor
+20418: values
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchResult/zKFqMZ2SXbLQVrXFYXT
+Method: EncodeFields
+20418: values
+
+Namespace: Dropbox.Api.Users.UserFeaturesGetValuesBatchResult/J3fXjC2TvHnQjbUMbNm
+Method: SetField
+20418: values
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: FeaturesGetValuesAsync
+19600: api
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: FeaturesGetValuesAsync
+20434: /users/features/get_values
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: FeaturesGetValuesAsync
+20490: user
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountAsync
+19600: api
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountAsync
+20502: /users/get_account
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountAsync
+20490: user
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountBatchAsync
+19600: api
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountBatchAsync
+20542: /users/get_account_batch
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetAccountBatchAsync
+20490: user
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetCurrentAccountAsync
+19600: api
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetCurrentAccountAsync
+20594: /users/get_current_account
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetCurrentAccountAsync
+20490: user
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetSpaceUsageAsync
+19600: api
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetSpaceUsageAsync
+20650: /users/get_space_usage
+
+Namespace: Dropbox.Api.Users.Routes.UsersUserRoutes
+Method: GetSpaceUsageAsync
+20490: user
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/vYuAa42i68tdCGo542j
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/IVLgfh2r1SJou1tVARN
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.CameraUploadsPolicyState/IVLgfh2r1SJou1tVARN
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/jLg45L2bkjyU7FAE7Z0
+Method: EncodeFields
+76292: required
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/M5TlJK2OA1k7xpjEl6I
+Method: Decode
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/M5TlJK2OA1k7xpjEl6I
+Method: Decode
+76292: required
+
+Namespace: Dropbox.Api.TeamPolicies.EmmState/M5TlJK2OA1k7xpjEl6I
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/xFmHQF2mQbv09n1MAif
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/h8QvSk2HxssAtayQ7Hd
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.FileLockingPolicyState/h8QvSk2HxssAtayQ7Hd
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/yV4PeN2lqwsIhkqvGe9
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/yV4PeN2lqwsIhkqvGe9
+Method: EncodeFields
+112718: admins_only
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/yV4PeN2lqwsIhkqvGe9
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/yV4PeN2lqwsIhkqvGe9
+Method: EncodeFields
+112678: admins_and_members
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/kqGTkQ2X1pxKrYcX9AD
+Method: Decode
+112678: admins_and_members
+
+Namespace: Dropbox.Api.TeamPolicies.GroupCreation/kqGTkQ2X1pxKrYcX9AD
+Method: Decode
+112718: admins_only
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/kIqjlv2UyCEW0KQbWOx
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/esZDWb2L0ZiR5DkHyjo
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.OfficeAddInPolicy/esZDWb2L0ZiR5DkHyjo
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+112744: everyone_in_team
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/DMRL1020WobXFeacLLd
+Method: EncodeFields
+112780: invite_only
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/nBVNbB2t5bbJQdRhm27
+Method: Decode
+112780: invite_only
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDefaultFolderPolicy/nBVNbB2t5bbJQdRhm27
+Method: Decode
+112744: everyone_in_team
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+112818: partial
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/tYJSg82CZAuhTJDRDtR
+Method: EncodeFields
+112806: full
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/KMqHxZ2wHNQoagSlr2V
+Method: Decode
+112806: full
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDeploymentPolicy/KMqHxZ2wHNQoagSlr2V
+Method: Decode
+112818: partial
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/HddAxC2fZLXAjeZkSiJ
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/GMRyGq2vXdNLOXpsmss
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperDesktopPolicy/GMRyGq2vXdNLOXpsmss
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+112836: unspecified
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/EN6Jn72j4DVWLkaLQKp
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/VAwpMi2ebbhZQgyvKWK
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/VAwpMi2ebbhZQgyvKWK
+Method: Decode
+112836: unspecified
+
+Namespace: Dropbox.Api.TeamPolicies.PaperEnabledPolicy/VAwpMi2ebbhZQgyvKWK
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/HL7ZTA24UfI4qYTPQR2
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/IxhA742sjNS8Pl9giw1
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordControlMode/IxhA742sjNS8Pl9giw1
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+112862: minimal_requirements
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+112944: strong_password
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/L7sL2m2hRsrqRRcnHIR
+Method: EncodeFields
+112906: moderate_password
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/zEcYaL2Vxx8xmvaDhcm
+Method: Decode
+112906: moderate_password
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/zEcYaL2Vxx8xmvaDhcm
+Method: Decode
+112944: strong_password
+
+Namespace: Dropbox.Api.TeamPolicies.PasswordStrengthPolicy/zEcYaL2Vxx8xmvaDhcm
+Method: Decode
+112862: minimal_requirements
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+112978: unlink_all
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+113002: unlink_most_inactive
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/DMVHN42keOpjSr2bikM
+Method: EncodeFields
+113046: add_member_to_exceptions
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/ppXu0d27jolFWEraHRq
+Method: Decode
+113046: add_member_to_exceptions
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/ppXu0d27jolFWEraHRq
+Method: Decode
+112978: unlink_all
+
+Namespace: Dropbox.Api.TeamPolicies.RolloutMethod/ppXu0d27jolFWEraHRq
+Method: Decode
+113002: unlink_most_inactive
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+113130: from_anyone
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+113098: from_team_only
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/zGl85a2zdlF2Z5rqsao
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/Iw35TbIZ5Ie23Panjiw
+Method: Decode
+113130: from_anyone
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderJoinPolicy/Iw35TbIZ5Ie23Panjiw
+Method: Decode
+113098: from_team_only
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+113156: anyone
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/PrXg2II2NRCUyKgJsmK
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/g769FwIIVebSEL7k6IW
+Method: Decode
+21364: team
+
+Namespace: Dropbox.Api.TeamPolicies.SharedFolderMemberPolicy/g769FwIIVebSEL7k6IW
+Method: Decode
+113156: anyone
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+113242: team_only
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+113204: default_team_only
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/gsAptIIg2UbNaEVqhCP
+Method: EncodeFields
+113172: default_public
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/NdmccyIGmtYWfXfg5Ss
+Method: Decode
+113204: default_team_only
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/NdmccyIGmtYWfXfg5Ss
+Method: Decode
+113172: default_public
+
+Namespace: Dropbox.Api.TeamPolicies.SharedLinkCreatePolicy/NdmccyIGmtYWfXfg5Ss
+Method: Decode
+113242: team_only
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/UoHCHDIotBHbyNYQZei
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/mP0o1DI9d7X0Wbj96qg
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseDownloadPolicy/mP0o1DI9d7X0Wbj96qg
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/porpuoIYOsGS9MHMQSt
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/OC0yu2IE24mphQIU9ob
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseEnabledPolicy/OC0yu2IE24mphQIU9ob
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/NjhvvuIcQNaenK8xjEk
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/ySFImyI58MMuf8F8GXs
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.ShowcaseExternalSharingPolicy/ySFImyI58MMuf8F8GXs
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+113264: local
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/Tgdg48IaFJxiPQE82Yp
+Method: EncodeFields
+113278: on_demand
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/hksYQ2IM4y0ifmk4cKx
+Method: Decode
+113278: on_demand
+
+Namespace: Dropbox.Api.TeamPolicies.SmartSyncPolicy/hksYQ2IM4y0ifmk4cKx
+Method: Decode
+113264: local
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/QOAuMXIu1rg4kC2NsTr
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/UlGId5IRgSPWOLtQQtE
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamPolicies.SmarterSmartSyncPolicyState/UlGId5IRgSPWOLtQQtE
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/YMknb0IPdeTPHdKxSCy
+Method: EncodeFields
+76292: required
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/vwSE0AInQFIGdQrvyaN
+Method: Decode
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/vwSE0AInQFIGdQrvyaN
+Method: Decode
+76292: required
+
+Namespace: Dropbox.Api.TeamPolicies.SsoPolicy/vwSE0AInQFIGdQrvyaN
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies
+Method: .ctor
+20698: sharing
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies
+Method: .ctor
+20736: officeAddin
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies
+Method: .ctor
+20716: emmState
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/KdHf55IdNlsNiZVegu0
+Method: EncodeFields
+20698: sharing
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/KdHf55IdNlsNiZVegu0
+Method: EncodeFields
+113300: emm_state
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/KdHf55IdNlsNiZVegu0
+Method: EncodeFields
+113322: office_addin
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/kbFvpvIAUwpZiKxahOa
+Method: SetField
+20698: sharing
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/kbFvpvIAUwpZiKxahOa
+Method: SetField
+113300: emm_state
+
+Namespace: Dropbox.Api.TeamPolicies.TeamMemberPolicies/kbFvpvIAUwpZiKxahOa
+Method: SetField
+113322: office_addin
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies
+Method: .ctor
+20814: sharedFolderJoinPolicy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies
+Method: .ctor
+20862: sharedLinkCreatePolicy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies
+Method: .ctor
+20762: sharedFolderMemberPolicy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/KCe3rTI1LwWNgEl9ini
+Method: EncodeFields
+113350: shared_folder_member_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/KCe3rTI1LwWNgEl9ini
+Method: EncodeFields
+113462: shared_link_create_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/KCe3rTI1LwWNgEl9ini
+Method: EncodeFields
+113408: shared_folder_join_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/XSiQxFIpWe40uY8pkpb
+Method: SetField
+113408: shared_folder_join_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/XSiQxFIpWe40uY8pkpb
+Method: SetField
+113350: shared_folder_member_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TeamSharingPolicies/XSiQxFIpWe40uY8pkpb
+Method: SetField
+113462: shared_link_create_policy
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+113556: require_tfa_disable
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ss5iflIB8GoB1ZY9eOD
+Method: EncodeFields
+113516: require_tfa_enable
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ff2buBIDKXv9TSuyhRt
+Method: Decode
+113556: require_tfa_disable
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationPolicy/Ff2buBIDKXv9TSuyhRt
+Method: Decode
+113516: require_tfa_enable
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+76292: required
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Fb9U0hI68peKWKTytHg
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Ax85kXIyhujxeo2y4vy
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Ax85kXIyhujxeo2y4vy
+Method: Decode
+112658: optional
+
+Namespace: Dropbox.Api.TeamPolicies.TwoStepVerificationState/Ax85kXIyhujxeo2y4vy
+Method: Decode
+76292: required
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+113676: admin_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+19600: api
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+113706: enterprise_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+113618: sign_in_as
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+113598: end_user
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Ji70qsIKoIDpCa1lcvf
+Method: EncodeFields
+113642: content_manager
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+113706: enterprise_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+19600: api
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+113676: admin_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+113642: content_manager
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+113598: end_user
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/wqaaWUI31HY7QR8A8iL
+Method: Decode
+113618: sign_in_as
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/EndUser/jFvDeezk5AhX9oY9RHH
+Method: EncodeFields
+113598: end_user
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/EndUser/rrAfBGz7WkwZedrug2i
+Method: SetField
+113598: end_user
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/SignInAs/foLwffzznuuY25jdFJu
+Method: EncodeFields
+113618: sign_in_as
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/ContentManager/cDnNjD2Z2nFt6GYxJvCe
+Method: EncodeFields
+113642: content_manager
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/AdminConsole/yylf8l2ZgEGZUI3CSUtF
+Method: EncodeFields
+113676: admin_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/EnterpriseConsole/CDdayX2ZoWU0sF9D0rBX
+Method: EncodeFields
+113706: enterprise_console
+
+Namespace: Dropbox.Api.TeamLog.AccessMethodLogInfo/Api/Rar9pw2ZYdnXKFApbE9J
+Method: EncodeFields
+19600: api
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+113772: available
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/n55LWGIx2vNBEit5yrc
+Method: EncodeFields
+113746: unavailable
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/Uif4GRINluj4myv3kUd
+Method: Decode
+113746: unavailable
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureAvailability/Uif4GRINluj4myv3kUd
+Method: Decode
+113772: available
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityDetails/DQwUThIJHyiBXVTBjZQ
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityDetails/DQwUThIJHyiBXVTBjZQ
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityDetails/O0kp4yI8tQr7dFbbQQy
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityDetails/O0kp4yI8tQr7dFbbQQy
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityType/EXy4H0IQlUCcrZKFue7
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangeAvailabilityType/yt8eRbIWaDOIys9Axak
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyDetails/PSIAfvIFBqjrer0riDm
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyDetails/PSIAfvIFBqjrer0riDm
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyDetails/dF7jr2IqoY29CZGBHT8
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyDetails/dF7jr2IqoY29CZGBHT8
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyType/ImbjULISjsgeEcjkXeT
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureChangePolicyType/EopcN3ITNCZ4vDe7BLb
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountDetails
+Method: .ctor
+20956: domainName
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountDetails/J39uI6Ii4ccQQ5TP5KZ
+Method: EncodeFields
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountDetails/xs0nMcIrL3d0aSDM3Ie
+Method: SetField
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountType/TO7OTTIb3U4WB5H9vpH
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureMigrateAccountType/IEEDLdIOUeRS8DxUbuE
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentDetails
+Method: .ctor
+20956: domainName
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentDetails/S5ZuuGImE9DawHVJ9YR
+Method: EncodeFields
+113874: notification_type
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentDetails/S5ZuuGImE9DawHVJ9YR
+Method: EncodeFields
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentDetails/spACTtIHpsiDqQy0ulU
+Method: SetField
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentDetails/spACTtIHpsiDqQy0ulU
+Method: SetField
+113874: notification_type
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentType/s3Mnp5IlZtGHGg9klLO
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationEmailsSentType/MgdKubIXLqmQIqCqalV
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+113976: actionable_notification
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+113912: proactive_warning_notification
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/LmmKjtIUTRa4aG0YlIu
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/zm9GSEIL1ZIrIXlOQYP
+Method: Decode
+113912: proactive_warning_notification
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureNotificationType/zm9GSEIL1ZIrIXlOQYP
+Method: Decode
+113976: actionable_notification
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+114026: invited_users
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+114056: all_users
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/kJVL1FI0TXPs3LEGhjM
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/nTTuW0ItTTb6GsbfQ0E
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/nTTuW0ItTTb6GsbfQ0E
+Method: Decode
+114026: invited_users
+
+Namespace: Dropbox.Api.TeamLog.AccountCapturePolicy/nTTuW0ItTTb6GsbfQ0E
+Method: Decode
+114056: all_users
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountDetails
+Method: .ctor
+20956: domainName
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountDetails/evFMq5IC40SiU8xvCh3
+Method: EncodeFields
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountDetails/gXGIR3IwOxwp5u2vUgc
+Method: SetField
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountType/vWiYE8If7jHm6rM0hXq
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountCaptureRelinquishAccountType/rRX8ZpIvPMxZaHykrQf
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails
+Method: .ctor
+20980: previousValue
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails/ACp2JaIjZhAInnyyVN8
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails/ACp2JaIjZhAInnyyVN8
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails/akaGkOIeKVo5MKH8KvW
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedDetails/akaGkOIeKVo5MKH8KvW
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedType/jPU57eI4gsSe5QMmy8t
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountLockOrUnlockedType/RHl21vIsfboWDVQuy3s
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+114094: unlocked
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+114078: locked
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AccountState/Y2RrWPIhtZdGfh1oqK2
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AccountState/weFeJYIVqRn7JpiS7CY
+Method: Decode
+114094: unlocked
+
+Namespace: Dropbox.Api.TeamLog.AccountState/weFeJYIVqRn7JpiS7CY
+Method: Decode
+114078: locked
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+114182: team_invite_details
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+114114: team_join_details
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/phInu9IkY2bVTZCEpDx
+Method: EncodeFields
+114152: remove_action
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/V0Hb73I7hIlgBZh5GLJ
+Method: Decode
+114182: team_invite_details
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/V0Hb73I7hIlgBZh5GLJ
+Method: Decode
+114152: remove_action
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/V0Hb73I7hIlgBZh5GLJ
+Method: Decode
+114114: team_join_details
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/TeamJoinDetails/Jf6aw82ZinLaCod6BD1e
+Method: EncodeFields
+114114: team_join_details
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/RemoveAction/DrLE7X2ZbGoQFkcU0XBA
+Method: EncodeFields
+114152: remove_action
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/RemoveAction/CLfVnU2ZO7hZ3nh3B9ux
+Method: SetField
+114152: remove_action
+
+Namespace: Dropbox.Api.TeamLog.ActionDetails/TeamInviteDetails/lvAxL42ZmrOy3aJ3igln
+Method: EncodeFields
+114182: team_invite_details
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+114224: admin
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+114276: anonymous
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+114238: reseller
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+42560: app
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+20490: user
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/SwQC0LIz2UrsHtmExkv
+Method: EncodeFields
+114258: dropbox
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+114276: anonymous
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+114238: reseller
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+20490: user
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+114258: dropbox
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+42560: app
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/MgBaodgZVSibpnfCdAi
+Method: Decode
+114224: admin
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/User/ljRgmj2ZUuhBfZEjvm47
+Method: EncodeFields
+20490: user
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/User/E9aAah2ZLwCVMKjuZvv6
+Method: SetField
+20490: user
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/Admin/QnKLK42Z0WHlispnyL33
+Method: EncodeFields
+114224: admin
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/Admin/fZpsih2ZtBWPgRxmkNlo
+Method: SetField
+114224: admin
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/App/YqbRfH2ZC7m5JtiL0bUm
+Method: EncodeFields
+42560: app
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/App/GFLWg22ZwfDBGqCRevAm
+Method: SetField
+42560: app
+
+Namespace: Dropbox.Api.TeamLog.ActorLogInfo/Reseller/nrO9Io2ZfLrZ1LHLmjp7
+Method: EncodeFields
+114238: reseller
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+114398: limited_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+114298: team_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+114428: member_only
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+114368: support_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/XXTEnmg291YQm0vKXfn
+Method: EncodeFields
+114322: user_management_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/fBFmABgIZZHeKAQPA7R
+Method: Decode
+114368: support_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/fBFmABgIZZHeKAQPA7R
+Method: Decode
+114398: limited_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/fBFmABgIZZHeKAQPA7R
+Method: Decode
+114322: user_management_admin
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/fBFmABgIZZHeKAQPA7R
+Method: Decode
+114428: member_only
+
+Namespace: Dropbox.Api.TeamLog.AdminRole/fBFmABgIZZHeKAQPA7R
+Method: Decode
+114298: team_admin
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadDisabledType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadDisabledType/viX4sHgoW4uGYTnfV3I
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadDisabledType/JiIvK5g9i3xtpd0RU4W
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadEnabledType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadEnabledType/u640LGgcT1DY9gRaxtJ
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AllowDownloadEnabledType/hm9YTKg5R3YaEVKlHgx
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ApiSessionLogInfo
+Method: .ctor
+21010: requestId
+
+Namespace: Dropbox.Api.TeamLog.ApiSessionLogInfo/EBaWGTgavl6cjiknM19
+Method: EncodeFields
+114454: request_id
+
+Namespace: Dropbox.Api.TeamLog.ApiSessionLogInfo/Wt71jlgMErW9cf324xg
+Method: SetField
+114454: request_id
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamDetails
+Method: .ctor
+21032: appInfo
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamDetails/OnI0Q3gu7qHsemFNkVd
+Method: EncodeFields
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamDetails/PCciIvgRyVuiNUX5LgM
+Method: SetField
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamType/NIZOkBgPA0vucDGu6Eq
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLinkTeamType/hZ6C6hgnnBWxnoI1JEj
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserDetails
+Method: .ctor
+21032: appInfo
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserDetails/bU8a09gdangjItrchZE
+Method: EncodeFields
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserDetails/or2ptXgAeM0HVPuJAEw
+Method: SetField
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserType/beeMxkg12AX0tq7Jk9X
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLinkUserType/Wdtiu4gpfRw6t8k3rhv
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+114498: user_or_team_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+114548: user_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+114616: app_id
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+114582: team_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/icTsqRgBCC6SNyluew0
+Method: EncodeFields
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/jYgPFpgDrq5HplY77eo
+Method: Decode
+114498: user_or_team_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/jYgPFpgDrq5HplY77eo
+Method: Decode
+114582: team_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/jYgPFpgDrq5HplY77eo
+Method: Decode
+114548: user_linked_app
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/jYgPFpgDrq5HplY77eo
+Method: SetField
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.AppLogInfo/jYgPFpgDrq5HplY77eo
+Method: SetField
+114616: app_id
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamDetails
+Method: .ctor
+21032: appInfo
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamDetails/B0k06Ig6FCnQukod2wG
+Method: EncodeFields
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamDetails/jfwyEtgy4JnUgWYBtaO
+Method: SetField
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamType/nDp3JRgKBiSFDLkNWyd
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkTeamType/rCjl7rg3FaKt8uWXAdd
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserDetails
+Method: .ctor
+21032: appInfo
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserDetails/pnIrnxgxrUvbpQCOshv
+Method: EncodeFields
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserDetails/XsasZsgN96Asscmb7mU
+Method: SetField
+114478: app_info
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserType/VEkXfQgJLWKr134DZeF
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AppUnlinkUserType/EfkGY5g8JNtRpJU2aYM
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+114648: paper_document
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+114632: folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+114708: showcase_document
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+114680: paper_folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+34528: file
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/BxDQe2gQQiJ5B0sJgdr
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/fHrGKcgWKBaS8d6p67W
+Method: Decode
+114632: folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/fHrGKcgWKBaS8d6p67W
+Method: Decode
+34528: file
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/fHrGKcgWKBaS8d6p67W
+Method: Decode
+114708: showcase_document
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/fHrGKcgWKBaS8d6p67W
+Method: Decode
+114680: paper_folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/fHrGKcgWKBaS8d6p67W
+Method: Decode
+114648: paper_document
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/File/dXUFpg22cKrN5fAdpo4Z
+Method: EncodeFields
+34528: file
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/Folder/AWJlhC22aKGCQxsyhDMd
+Method: EncodeFields
+114632: folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/PaperDocument/Buf1vo22uM2j3ypXiBFY
+Method: EncodeFields
+114648: paper_document
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/PaperFolder/hwuNjf22Pt6H2JGxr206
+Method: EncodeFields
+114680: paper_folder
+
+Namespace: Dropbox.Api.TeamLog.AssetLogInfo/ShowcaseDocument/ItKS8Q22dAQPStyPIxlA
+Method: EncodeFields
+114708: showcase_document
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/h4MIbsgF06QJgFb6vnY
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/h4MIbsgF06QJgFb6vnY
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/h4MIbsgF06QJgFb6vnY
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/vmjikvgqFQysv84BP9P
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/vmjikvgqFQysv84BP9P
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageDetails/vmjikvgqFQysv84BP9P
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageType/dFONQigSaBFs2ZChhIj
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderAddPageType/VTLfupgTFpqO7blxIa7
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/N4Yhctgiy3pZ4Wytp1P
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/N4Yhctgiy3pZ4Wytp1P
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/N4Yhctgiy3pZ4Wytp1P
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/q0qYlEgr9CnOYeksKdZ
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/q0qYlEgr9CnOYeksKdZ
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionDetails/q0qYlEgr9CnOYeksKdZ
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionType/ynCbLogbRl5SmyVb6Bj
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderAddSectionType/ruSkcxgOVFddFFHZkqJ
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/o7SnGVgm0AjV8enFiFO
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/o7SnGVgm0AjV8enFiFO
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/o7SnGVgm0AjV8enFiFO
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/DQ81Q3gH6m9xmstv02e
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/DQ81Q3gH6m9xmstv02e
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageDetails/DQ81Q3gH6m9xmstv02e
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageType/FUHwfrgljqmcN6AL9WL
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemovePageType/qO9j6DgXYuuJH7BBY97
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/wDldAngUlPIH1WZHfUQ
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/wDldAngUlPIH1WZHfUQ
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/wDldAngUlPIH1WZHfUQ
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/heL5pugLhfjUxnQ61li
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/heL5pugLhfjUxnQ61li
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionDetails/heL5pugLhfjUxnQ61li
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionType/VDC1rdg0VYpChXumCBZ
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRemoveSectionType/WCuCC7gt1iFSjv4Wws5
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/CiQXJdgCoFmGyWgmLRP
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/CiQXJdgCoFmGyWgmLRP
+Method: EncodeFields
+114828: previous_binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/CiQXJdgCoFmGyWgmLRP
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/CiQXJdgCoFmGyWgmLRP
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/J7O4e6gwxMoO81bIaog
+Method: SetField
+114828: previous_binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/J7O4e6gwxMoO81bIaog
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/J7O4e6gwxMoO81bIaog
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageDetails/J7O4e6gwxMoO81bIaog
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageType/iOswyhgfaDQxw1t9EKK
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenamePageType/E9GR93gv1YsdylU6EJK
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/gfuToGgjspxTC0wx2Za
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/gfuToGgjspxTC0wx2Za
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/gfuToGgjspxTC0wx2Za
+Method: EncodeFields
+114828: previous_binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/gfuToGgjspxTC0wx2Za
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/SpjIYFgeS7i4Br2a8T0
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/SpjIYFgeS7i4Br2a8T0
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/SpjIYFgeS7i4Br2a8T0
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionDetails/SpjIYFgeS7i4Br2a8T0
+Method: SetField
+114828: previous_binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionType/tpaxkZg4CUrjskLLPRX
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderRenameSectionType/KH4E9EgsGqunaCLuOnt
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/ghD9qcghlkptoTOELUX
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/ghD9qcghlkptoTOELUX
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/ghD9qcghlkptoTOELUX
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/O173HbgVF9nqgFgt9iD
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/O173HbgVF9nqgFgt9iD
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageDetails/O173HbgVF9nqgFgt9iD
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageType/Lg6PB9gkDF5UZGbq8iC
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderPageType/BkGK9gg7TTKxNmlgVhE
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails
+Method: .ctor
+21050: eventUuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails
+Method: .ctor
+21072: docTitle
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails
+Method: .ctor
+21092: binderItemName
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/jntD0wgzLPY4UKjoXVc
+Method: EncodeFields
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/jntD0wgzLPY4UKjoXVc
+Method: EncodeFields
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/jntD0wgzLPY4UKjoXVc
+Method: EncodeFields
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/Ex2CCnGZaVi4IgbDxKe
+Method: SetField
+114746: event_uuid
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/Ex2CCnGZaVi4IgbDxKe
+Method: SetField
+114770: doc_title
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionDetails/Ex2CCnGZaVi4IgbDxKe
+Method: SetField
+114792: binder_item_name
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionType/k3RbjTG2x5yDLPrUw1U
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.BinderReorderSectionType/mELPUiGImoD4OQxOXR1
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/bBYGCrGgkGim7Ip1H8i
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/RfmTdTGGs5DgSo3ycvB
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicy/RfmTdTGGs5DgSo3ycvB
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails
+Method: .ctor
+20980: previousValue
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails/VeZHTAGoANyi6OKUgNg
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails/VeZHTAGoANyi6OKUgNg
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails/c8SNw5G9LHIYwb61iPj
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedDetails/c8SNw5G9LHIYwb61iPj
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedType/DLG9naGYm0nQW2sf2K0
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CameraUploadsPolicyChangedType/c0FieWGEJxHDEMjjfkx
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21240: sha1Fingerprint
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21124: subject
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21142: issuer
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21212: serialNumber
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21180: expirationDate
+
+Namespace: Dropbox.Api.TeamLog.Certificate
+Method: .ctor
+21158: issueDate
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+114940: serial_number
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+114906: expiration_date
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+21142: issuer
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+21124: subject
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+114970: sha1_fingerprint
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+114882: issue_date
+
+Namespace: Dropbox.Api.TeamLog.Certificate/p96Bq2GcYv3ISWQjRfi
+Method: EncodeFields
+115006: common_name
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+21142: issuer
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+114970: sha1_fingerprint
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+21124: subject
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+114940: serial_number
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+115006: common_name
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+114906: expiration_date
+
+Namespace: Dropbox.Api.TeamLog.Certificate/it8sMkG5KNYOwVl7faX
+Method: SetField
+114882: issue_date
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails
+Method: .ctor
+20980: previousValue
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails
+Method: .ctor
+21274: teamName
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/qax6L8GahaDyPUMrHML
+Method: EncodeFields
+115032: team_name
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/qax6L8GahaDyPUMrHML
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/qax6L8GahaDyPUMrHML
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/IKc4IuGMFUttiET8sVN
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/IKc4IuGMFUttiET8sVN
+Method: SetField
+115032: team_name
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleDetails/IKc4IuGMFUttiET8sVN
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleType/reJEIYGukDmoVl90kCg
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseAdminRoleType/OPVdYNGRFdQfXrLeLdo
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails
+Method: .ctor
+21294: action
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails
+Method: .ctor
+21310: additionalInfo
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails
+Method: .ctor
+20980: previousValue
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/K36ECXGPNMqui00XyI5
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/K36ECXGPNMqui00XyI5
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/K36ECXGPNMqui00XyI5
+Method: EncodeFields
+115054: additional_info
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/K36ECXGPNMqui00XyI5
+Method: EncodeFields
+21294: action
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/BlxpMcGnNh06HcUPFLE
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/BlxpMcGnNh06HcUPFLE
+Method: SetField
+115054: additional_info
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/BlxpMcGnNh06HcUPFLE
+Method: SetField
+21294: action
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusDetails/BlxpMcGnNh06HcUPFLE
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusType/KuAUtKGdsyeHl3QSaTG
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ChangedEnterpriseConnectedTeamStatusType/pfOuESGAt5ZwNGrkFsZ
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareDetails
+Method: .ctor
+21342: albumName
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareDetails/zUkivLG1UlYGwSIkDOB
+Method: EncodeFields
+115088: album_name
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareDetails/E10eZaGpShwMSJnsyvr
+Method: SetField
+115088: album_name
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareType/iua0C0GBjK03ynXRv2v
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CollectionShareType/OJFAliGD5tAIBIZlqpI
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.ConnectedTeamName
+Method: .ctor
+21364: team
+
+Namespace: Dropbox.Api.TeamLog.ConnectedTeamName/CnUpONG6sxY7LCJDFRi
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.TeamLog.ConnectedTeamName/ohpRrMGy2y2w7lqG9Bn
+Method: SetField
+21364: team
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+111922: enabled
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/QTwi7FGK4dPUHJXyR10
+Method: EncodeFields
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/BR7pTXG3ZY0jZPnJPdh
+Method: Decode
+111806: disabled
+
+Namespace: Dropbox.Api.TeamLog.ContentPermanentDeletePolicy/BR7pTXG3ZY0jZPnJPdh
+Method: Decode
+111922: enabled
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+115138: non_team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+115172: organization_team
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+115112: team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+114276: anonymous
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+115210: trusted_non_team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/dF7tgFGxWhQ8cU48TIR
+Method: EncodeFields
+21364: team
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+115172: organization_team
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+114276: anonymous
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+115138: non_team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+115210: trusted_non_team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+21364: team
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/aO6EPdGN3HJol1MLHmK
+Method: Decode
+115112: team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/TeamMember/cE9PkY22FvKggC6k51rZ
+Method: EncodeFields
+115112: team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/NonTeamMember/FerpGc22SS5MuOJ7fOMH
+Method: EncodeFields
+115138: non_team_member
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/OrganizationTeam/GIeYlC22myYsZHrgmW9t
+Method: EncodeFields
+115172: organization_team
+
+Namespace: Dropbox.Api.TeamLog.ContextLogInfo/TrustedNonTeamMember/sBbKYy22ljDmal51Vynd
+Method: EncodeFields
+115210: trusted_non_team_member
+
+Namespace: Dropbox.Api.TeamLog.CreateFolderType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CreateFolderType/xJRoFRGQQfAtKHFcOLT
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CreateFolderType/v1J8HCGWJv2vEEJfE45
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails
+Method: .ctor
+21376: linkUrl
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails
+Method: .ctor
+21394: expiryDate
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails/OWg1QHGFRxdobtWFpgN
+Method: EncodeFields
+115260: link_url
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails/OWg1QHGFRxdobtWFpgN
+Method: EncodeFields
+115280: expiry_date
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails/awqWEQGqLSL1PWZuklO
+Method: SetField
+115280: expiry_date
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkDetails/awqWEQGqLSL1PWZuklO
+Method: SetField
+115260: link_url
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkType/jnbHJIGSjLoml0lgKwL
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.CreateTeamInviteLinkType/fotosFGTGYi8py8DbFY
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails
+Method: .ctor
+20980: previousValue
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails/IVq927GiA2ZqOI1MeSn
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails/IVq927GiA2ZqOI1MeSn
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails/M3SI1lGrDnoCUUGbVyD
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyDetails/M3SI1lGrDnoCUUGbVyD
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyType/MHOMvlGbR46gL5v0hSE
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionChangePolicyType/hRw2K9GO59voABIUiyE
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyDetails
+Method: .ctor
+21418: placementRestriction
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyDetails/DPDVO3GmiqUVZbqmdlT
+Method: EncodeFields
+115306: placement_restriction
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyDetails/D27r7CGHDMgqf3C2gTs
+Method: SetField
+115306: placement_restriction
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyType/drxerUGlo98GbZPqZEY
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DataPlacementRestrictionSatisfyPolicyType/j1CnfkGX88o1DBYBp33
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkDetails
+Method: .ctor
+21376: linkUrl
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkDetails/UEeekhGUXoXx8QbA9kR
+Method: EncodeFields
+115260: link_url
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkDetails/YlEtBcGLxdJIAm1SW4U
+Method: SetField
+115260: link_url
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkType/yLesyEG0qsMw0aesQuZ
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeleteTeamInviteLinkType/WDIg7WGtTuFCZZSUsHW
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo
+Method: .ctor
+21462: hostName
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo
+Method: .ctor
+21482: clientType
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo
+Method: .ctor
+21506: platform
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+21506: platform
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115374: client_type
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115400: is_delete_on_unlink_supported
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115352: host_name
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115486: created
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115504: updated
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/Ehyko6GCeWSUrI2sTtc
+Method: EncodeFields
+115550: client_version
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115374: client_type
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115352: host_name
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115550: client_version
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115504: updated
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115486: created
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+21506: platform
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115400: is_delete_on_unlink_supported
+
+Namespace: Dropbox.Api.TeamLog.DesktopDeviceSessionLogInfo/mLL4pCGwxur9POkjCnF
+Method: SetField
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DesktopSessionLogInfo/eWeVRUGfWg74hnXEw5C
+Method: EncodeFields
+115582: session_id
+
+Namespace: Dropbox.Api.TeamLog.DesktopSessionLogInfo/eS31QNGvyaeCS89j8gc
+Method: SetField
+115582: session_id
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsAddExceptionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsAddExceptionType/NfmLigG4Ef4F0Z0fhHW
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsAddExceptionType/Nba6QwGsdRblQSqIR0c
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyDetails/rykue1GhDveoD2MxHPw
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyDetails/rykue1GhDveoD2MxHPw
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyDetails/SUjmIlGV7xboLsRSCRQ
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyDetails/SUjmIlGV7xboLsRSCRQ
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyType/U5ymWuGkFsGkorIjHar
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeDesktopPolicyType/ify6i7G7wTb3nXedW7F
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyDetails/cOtd2ZGz1GaokxVGFbU
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyDetails/cOtd2ZGz1GaokxVGFbU
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyDetails/CYw9tEoZ4lZkojNmqxZ
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyDetails/CYw9tEoZ4lZkojNmqxZ
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyType/xADuejo2PX1IaLh9G8S
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeMobilePolicyType/MYJs2voIm7tEuplkntc
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionDetails/utbTVqogtrVqDPu5t4S
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionDetails/utbTVqogtrVqDPu5t4S
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionDetails/VQ9lDcoGHow5VUwdUlj
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionDetails/VQ9lDcoGHow5VUwdUlj
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionType/UyD5xFooppwJQZ9FwHg
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeOverageActionType/HgYvfoo9lumkkShNi6Y
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionDetails/LkFGpPoY92PFnHIjS2G
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionDetails/LkFGpPoY92PFnHIjS2G
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionDetails/g5oRGZoEgE9tginhBrX
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionDetails/g5oRGZoEgE9tginhBrX
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionType/DxGrwsocoZ3H619FnM3
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsChangeUnlinkActionType/nQEeSqo58t5sgM3py1w
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+115628: limited
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/cvpPuSoaUmcIBjmE8tE
+Method: EncodeFields
+115606: unlimited
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/rCYNEEoMroLQd5b5u1S
+Method: Decode
+115606: unlimited
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsPolicy/rCYNEEoMroLQd5b5u1S
+Method: Decode
+115628: limited
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsRemoveExceptionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsRemoveExceptionType/L5jPGtoP3ho5woRCqFY
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceApprovalsRemoveExceptionType/txcPbjon29cRqR0Agcd
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopDetails
+Method: .ctor
+21526: deviceSessionInfo
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopDetails/nl9De1odOhYqWKWMUW9
+Method: EncodeFields
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopDetails/nYJQtJoA0a0nEOLh1tS
+Method: SetField
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopType/fFgMZco1kTEfF01PWWF
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpDesktopType/xYS3GpopYYxyINP00Lm
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpMobileDetails/C6bUrPoBINNjaPat8ov
+Method: EncodeFields
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpMobileDetails/DMb1F7oDDmcVT47PQcn
+Method: SetField
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpMobileType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpMobileType/jrMb9eo6eT4HDgcYUeU
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpMobileType/qQUvFsoyR3bjcPiASbU
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebDetails
+Method: .ctor
+21564: userAgent
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebDetails/S8hyE4oKv3qaQZyQxBV
+Method: EncodeFields
+115688: user_agent
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebDetails/Kd1e9Go3i3a3Iq2xuHF
+Method: SetField
+115688: user_agent
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebType/llWCLGoxXaFKK280idq
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceChangeIpWebType/KWZUchoNLCYrAJHCsRm
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/FnBCh0oJyw0QaxBrEyf
+Method: EncodeFields
+115712: num_failures
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/FnBCh0oJyw0QaxBrEyf
+Method: EncodeFields
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/FnBCh0oJyw0QaxBrEyf
+Method: EncodeFields
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/x7rX35o8Uc6QBT9cXwR
+Method: SetField
+115712: num_failures
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/x7rX35o8Uc6QBT9cXwR
+Method: SetField
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailDetails/x7rX35o8Uc6QBT9cXwR
+Method: SetField
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailType/nWhQf0oQN3JsrZpZujK
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkFailType/zpMUb0oWFxUpGXOarS1
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessDetails/HVgVYaoFoIA9G3dCTDO
+Method: EncodeFields
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessDetails/HVgVYaoFoIA9G3dCTDO
+Method: EncodeFields
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessDetails/B4vf5uoqeD0W4qJeKus
+Method: SetField
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessDetails/B4vf5uoqeD0W4qJeKus
+Method: SetField
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessType/NrkwwKoSOOD6rkepYb0
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceDeleteOnUnlinkSuccessType/xEH5S6oTTnNOJhYDrhO
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailDetails
+Method: .ctor
+21586: deviceType
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailDetails/Mrh0HQoiirbIuPOxPIw
+Method: EncodeFields
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailDetails/Mrh0HQoiirbIuPOxPIw
+Method: EncodeFields
+115740: device_type
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailDetails/QdY0hqor05v8OQsSuR1
+Method: SetField
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailDetails/QdY0hqor05v8OQsSuR1
+Method: SetField
+115740: device_type
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailType/jxm1Yjob7SSm9BwWDqu
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkFailType/kv0MlHoONxLHMv8hvGU
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkSuccessDetails/kwD8eUomRc9Vjk0rYdA
+Method: EncodeFields
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkSuccessDetails/WYCgnvoHZ7sW0ZsG1Cy
+Method: SetField
+115646: device_session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkSuccessType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkSuccessType/vUsZOFolP4LKBc2b2MN
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceLinkSuccessType/En3eiloXwXsyJhIqwDV
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementDisabledType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementDisabledType/DcSc6Ko09gri3hXRxx7
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementDisabledType/CnsPDTotcpAQcZMNOyK
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementEnabledType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementEnabledType/VEcOvIofeVAi8BNR2Hm
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceManagementEnabledType/q1BRWlovffAX9kBoKVP
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115504: updated
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115814: mobile_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115766: desktop_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115860: web_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115900: legacy_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115486: created
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/XcWkF9ojSuKBnVm32vR
+Method: EncodeFields
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: Decode
+115766: desktop_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: Decode
+115860: web_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: Decode
+115900: legacy_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: Decode
+115814: mobile_device_session
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: SetField
+115504: updated
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: SetField
+115486: created
+
+Namespace: Dropbox.Api.TeamLog.DeviceSessionLogInfo/v1YDyhoej1gvSH5PIyw
+Method: SetField
+115462: ip_address
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+115964: mobile
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/z8Il2Xo4D6Y7IafE8pp
+Method: EncodeFields
+115946: desktop
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/JKkybtoslY7PR2uwGg9
+Method: Decode
+115964: mobile
+
+Namespace: Dropbox.Api.TeamLog.DeviceType/JKkybtoslY7PR2uwGg9
+Method: Decode
+115946: desktop
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/uTUVZ6ohurEHDSt7NwK
+Method: EncodeFields
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/uTUVZ6ohurEHDSt7NwK
+Method: EncodeFields
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/uTUVZ6ohurEHDSt7NwK
+Method: EncodeFields
+115980: delete_data
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/WjSe7ZoVsYXtsamNOFG
+Method: SetField
+115522: session_info
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/WjSe7ZoVsYXtsamNOFG
+Method: SetField
+115980: delete_data
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkDetails/WjSe7ZoVsYXtsamNOFG
+Method: SetField
+112246: display_name
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+116022: keep
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/OPjIjQok6qBVvJU9pnH
+Method: EncodeFields
+116006: remove
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/mEQymjo7y1Qu1haYD7F
+Method: Decode
+116006: remove
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkPolicy/mEQymjo7y1Qu1haYD7F
+Method: Decode
+116022: keep
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkType/B5puGsozDIFw82Ah6n2
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DeviceUnlinkType/bHCw3J9ZtaN9FkhH2mb
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsAddMembersType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsAddMembersType/NQ9DRB9gLVEnE9Ijv8t
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsAddMembersType/ijMF9Q9GULpMp5yvNgr
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsRemoveMembersType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsRemoveMembersType/CxVXJG9YhLJB84XIO61
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DirectoryRestrictionsRemoveMembersType/Sqo6a29EMCXYQE8kEdC
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DisabledDomainInvitesType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DisabledDomainInvitesType/qpERMO9aHEk2W1w37Aj
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DisabledDomainInvitesType/zZ46FV9MrGAJev3sQEM
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesApproveRequestToJoinTeamType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesApproveRequestToJoinTeamType/nMnIaA9Pa1n8eYWBaVe
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesApproveRequestToJoinTeamType/W7aiqN9nEg8GmF4hGoi
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesDeclineRequestToJoinTeamType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesDeclineRequestToJoinTeamType/iqBwwk91jbreN1Vt7p8
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesDeclineRequestToJoinTeamType/MXs7pJ9plp6kmjTMxwZ
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersDetails
+Method: .ctor
+20956: domainName
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersDetails/wU98q49BnDMpsEaayaO
+Method: EncodeFields
+116034: num_recipients
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersDetails/wU98q49BnDMpsEaayaO
+Method: EncodeFields
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersDetails/RfFL589Dm4rNt5UetCa
+Method: SetField
+116034: num_recipients
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersDetails/RfFL589Dm4rNt5UetCa
+Method: SetField
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersType/iwttsv96CmK1A0EcDsr
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesEmailExistingUsersType/zxnvUX9y6Jw4GcNfiqH
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesRequestToJoinTeamType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesRequestToJoinTeamType/oyvLRK9xwBairSfHvVE
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesRequestToJoinTeamType/WJkGmN9NSAYIBTK0FOl
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToNoType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToNoType/DKFBst9Qd9Btt1WGZ5M
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToNoType/EOG0tJ9W8HAG1O8C7QN
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToYesType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToYesType/xjq5cI9SIODtB1CvVAy
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainInvitesSetInviteNewUserPrefToYesType/TYnEoL9TvDbINP7l1SS
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailDetails
+Method: .ctor
+20956: domainName
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailDetails/gXZlN69iFPlVL4Fda5D
+Method: EncodeFields
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailDetails/gXZlN69iFPlVL4Fda5D
+Method: EncodeFields
+116066: verification_method
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailDetails/OZHZT99rb8NFd2ulkan
+Method: SetField
+116066: verification_method
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailDetails/OZHZT99rb8NFd2ulkan
+Method: SetField
+113848: domain_name
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailType/cEC7It9btYh9clVm8eA
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainFailType/zFPSKK9Otn4RBcZUver
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessDetails
+Method: .ctor
+21610: domainNames
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessDetails/wAT9il9mo5LDHsrkKKn
+Method: EncodeFields
+116108: domain_names
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessDetails/wAT9il9mo5LDHsrkKKn
+Method: EncodeFields
+116066: verification_method
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessDetails/YEtfNO9H67JVyAvHG0K
+Method: SetField
+116108: domain_names
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessDetails/YEtfNO9H67JVyAvHG0K
+Method: SetField
+116066: verification_method
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessType/Ri873X9lfj86VLydIbe
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationAddDomainSuccessType/umavDY9XhtEWRuSWTUe
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainDetails
+Method: .ctor
+21610: domainNames
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainDetails/yfv1Nc9U4Pj6p8oS982
+Method: EncodeFields
+116108: domain_names
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainDetails/TXv4s59Lh1UYhCZ5KSp
+Method: SetField
+116108: domain_names
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainType/xohZt990y2gkXbjRUdw
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DomainVerificationRemoveDomainType/N5CvX69tHEpRaUw499y
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+76774: disallow
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/cA7If39CRMNi9lWhJIt
+Method: EncodeFields
+116136: allow
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/ruBCSB9wpTgmmdYjLo8
+Method: Decode
+116136: allow
+
+Namespace: Dropbox.Api.TeamLog.DownloadPolicyType/ruBCSB9wpTgmmdYjLo8
+Method: Decode
+76774: disallow
+
+Namespace: Dropbox.Api.TeamLog.DurationLogInfo
+Method: .ctor
+21636: unit
+
+Namespace: Dropbox.Api.TeamLog.DurationLogInfo/ikTVMK9fUw9WbZF5iq2
+Method: EncodeFields
+116150: amount
+
+Namespace: Dropbox.Api.TeamLog.DurationLogInfo/ikTVMK9fUw9WbZF5iq2
+Method: EncodeFields
+21636: unit
+
+Namespace: Dropbox.Api.TeamLog.DurationLogInfo/RMM4Bf9vWMQDM486xUB
+Method: SetField
+21636: unit
+
+Namespace: Dropbox.Api.TeamLog.DurationLogInfo/RMM4Bf9vWMQDM486xUB
+Method: SetField
+116150: amount
+
+Namespace: Dropbox.Api.TeamLog.EmmAddExceptionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmAddExceptionType/Au2IrQ9455ZdDyQaJj5
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmAddExceptionType/lTVuXn9sU3MntoMulWw
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyDetails
+Method: .ctor
+20910: newValue
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyDetails/pGLDwT9hpJv8RGxhelS
+Method: EncodeFields
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyDetails/pGLDwT9hpJv8RGxhelS
+Method: EncodeFields
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyDetails/O8kLiJ9Vp5cyGauZ8kJ
+Method: SetField
+113794: new_value
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyDetails/O8kLiJ9Vp5cyGauZ8kJ
+Method: SetField
+113816: previous_value
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyType/mwGqfP9k9RNr4JZgEeT
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmChangePolicyType/nKPPry97ru0oiP10sGc
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateExceptionsReportType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateExceptionsReportType/Dd1dgDY2QfvYX8UxyEB
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateExceptionsReportType/mdq8dnYIqyeScw6x1Cn
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateUsageReportType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateUsageReportType/VPCDkyYonDUgnCm3tC0
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmCreateUsageReportType/c1xsW9Y9EifxPq7WnyP
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorDetails
+Method: .ctor
+21648: errorDetails
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorDetails/dmkCceYYBVel0E4NXhQ
+Method: EncodeFields
+116166: error_details
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorDetails/bUF71AYEZPITKT53ylk
+Method: SetField
+116166: error_details
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorType/dkoOecYcPbu9sSIcgtS
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmErrorType/Q152lWY5al04cromHXC
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRefreshAuthTokenType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRefreshAuthTokenType/uM5bb6Yua78Wx1tVRUA
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRefreshAuthTokenType/Q2HG2GYRfrKSuKEOpnY
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRemoveExceptionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRemoveExceptionType/s839Y0YdtpUVBYlc9Rp
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EmmRemoveExceptionType/OQ3GCbYAFn0KTHeSVe8
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnabledDomainInvitesType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnabledDomainInvitesType/welpG1YBI4bVvuqhYS8
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnabledDomainInvitesType/UvmYn4YDYyJjIFn22ak
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedDetails
+Method: .ctor
+21676: federationExtraDetails
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedDetails/QhPxASY6UbxG8UaOC7I
+Method: EncodeFields
+116196: federation_extra_details
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedDetails/eQJiJvYy1hfZiNwtO9s
+Method: SetField
+116196: federation_extra_details
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedType/vgGmiqYKnPPM1kL0YL5
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionDeprecatedType/ptpxjeY3y0JGXPucPyG
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionType/n0j2XoYJ36S2FMqagEm
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EndedEnterpriseAdminSessionType/Tx4ESRY8MvZDtV4hIby
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails
+Method: .ctor
+21760: previousSettingsPageLockingState
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails
+Method: .ctor
+21724: settingsPageName
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails
+Method: .ctor
+21828: newSettingsPageLockingState
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails
+Method: .ctor
+21274: teamName
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/E6gj4yYQ2EjbhIg3w2A
+Method: EncodeFields
+116248: settings_page_name
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/E6gj4yYQ2EjbhIg3w2A
+Method: EncodeFields
+115032: team_name
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/E6gj4yYQ2EjbhIg3w2A
+Method: EncodeFields
+116364: new_settings_page_locking_state
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/E6gj4yYQ2EjbhIg3w2A
+Method: EncodeFields
+116288: previous_settings_page_locking_state
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/NrdfPWYWR20ejWYVVEx
+Method: SetField
+116248: settings_page_name
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/NrdfPWYWR20ejWYVVEx
+Method: SetField
+115032: team_name
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/NrdfPWYWR20ejWYVVEx
+Method: SetField
+116364: new_settings_page_locking_state
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingDetails/NrdfPWYWR20ejWYVVEx
+Method: SetField
+116288: previous_settings_page_locking_state
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingType
+Method: .ctor
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingType/RpPwG4YFUBF3AePpkYt
+Method: EncodeFields
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EnterpriseSettingsLockingType/iYj9PrYqRfO7HBqXNSs
+Method: SetField
+20930: description
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+25364: other
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116450: domains
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116610: reports
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116744: tfa
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116686: team_policies
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116574: paper
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116754: trusted_teams
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116502: file_requests
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+26430: groups
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116558: logins
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116716: team_profile
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+26366: members
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116430: comments
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+27806: devices
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+20698: sharing
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116628: showcase
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116588: passwords
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+27794: apps
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116532: legal_holds
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116648: sso
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116468: file_operations
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/VoRTeRYSqg0hOKSqG6S
+Method: EncodeFields
+116658: team_folders
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+20698: sharing
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116686: team_policies
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116754: trusted_teams
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116716: team_profile
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116558: logins
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116658: team_folders
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116430: comments
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+26430: groups
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+27794: apps
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+26366: members
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116588: passwords
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116744: tfa
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116502: file_requests
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116532: legal_holds
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116574: paper
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+27806: devices
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116468: file_operations
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116628: showcase
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116610: reports
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116450: domains
+
+Namespace: Dropbox.Api.TeamLog.EventCategory/iiH4ApYTKCiedBk56OZ
+Method: Decode
+116648: sso
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+140658: member_space_limits_change_caps_type_policy_details
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+116926: app_unlink_user_details
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+139336: directory_restrictions_remove_members_details
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+48984: .tag
+
+Namespace: Dropbox.Api.TeamLog.EventDetails/i6WAm8Yi4meQtBYaAxg
+Method: EncodeFields
+136844: showcase_trashed_details
