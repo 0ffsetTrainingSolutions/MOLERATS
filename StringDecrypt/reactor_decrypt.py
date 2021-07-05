@@ -1,4 +1,3 @@
-#correct md5 (with null bytes stripped) = F7E0DF9539BA6D547BF3DBF578D455F0
 import sys, struct, clr
 from System.Reflection import Assembly, MethodInfo, BindingFlags
 from System import Type
@@ -13,8 +12,8 @@ class payloadScanner:
 	def __init__(self, obfuscatedBinary):
 		self.target = obfuscatedBinary
 
-	def scanBinary(self, decryptedBlob):
-
+	def scanBinary(self, decryptedBlob):	
+		# credits: https://rhotav.github.io/stringdecryptionwithpythonen
 		mod = dnlib.DotNet.ModuleDefMD.Load(self.target)
 		opt = dnlib.DotNet.Writer.ModuleWriterOptions(mod)	
 		opt.MetadataOptions.Flags = opt.MetadataOptions.Flags | dnlib.DotNet.Writer.MetadataFlags.PreserveAll;
